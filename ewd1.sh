@@ -5,7 +5,7 @@ set -e
 # === CONFIGURABLE ===
 SMTP_EMAIL="79sends@gmail.com"
 SMTP_PASSWORD="rfkfwalbaktmyqwl"
-EMAIL_RECIPIENT="ibraheem9omar@gmail.com"
+EMAIL_RECIPIENT="alzweidi@gmail.com"
 
 echo "[1/4] Installing msmtp..."
 sudo apt update && sudo apt install msmtp -y
